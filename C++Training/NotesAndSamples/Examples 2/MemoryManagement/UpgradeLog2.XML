@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MemoryManagement">
+</Property><Property Name="Solution File" Value="F:\Asset\My Technology POC\C++\Examples\MemoryManagement\MemoryManagement.sln">
+</Property><Property Name="User Options File" Value="F:\Asset\My Technology POC\C++\Examples\MemoryManagement\MemoryManagement.suo">
+</Property><Property Name="Date" Value="Sunday, April 04, 2010">
+</Property><Property Name="Time" Value="16:05 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MemoryManagement.sln" Description="File successfully backed up as F:\Asset\My Technology POC\C++\Examples\MemoryManagement\MemoryManagement.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="MemoryManagement.suo" Description="File successfully backed up as F:\Asset\My Technology POC\C++\Examples\MemoryManagement\MemoryManagement.suo.old">
+</Event><Event ErrorLevel="0" Project="MemoryManagement" Source="MemoryManagement\MemoryManagement.vcproj" Description="Converting project file 'F:\Asset\My Technology POC\C++\Examples\MemoryManagement\MemoryManagement\MemoryManagement.vcproj'.">
+</Event><Event ErrorLevel="1" Project="MemoryManagement" Source="MemoryManagement\MemoryManagement.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="MemoryManagement" Source="MemoryManagement\MemoryManagement.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="MemoryManagement" Source="MemoryManagement\MemoryManagement.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="MemoryManagement" Source="MemoryManagement\MemoryManagement.vcproj" Description="Done converting to new project file 'F:\Asset\My Technology POC\C++\Examples\MemoryManagement\MemoryManagement\MemoryManagement.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="MemoryManagement" Source="MemoryManagement\MemoryManagement.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MemoryManagement.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MemoryManagement.sln" Description="Converted">
+</Event></UpgradeLog>

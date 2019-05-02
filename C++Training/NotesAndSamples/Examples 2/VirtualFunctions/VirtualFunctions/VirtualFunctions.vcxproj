@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{B04DE6C2-0D24-488A-BE21-B0AA95E83B04}</ProjectGuid>
+    <RootNamespace>VirtualFunctions</RootNamespace>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.30128.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Configuration)\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Configuration)\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Console</SubSystem>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention>
+      </DataExecutionPrevention>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Console</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention>
+      </DataExecutionPrevention>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="E20A.cpp" />
+    <ClCompile Include="E05.cpp" />
+    <ClCompile Include="E06.cpp" />
+    <ClCompile Include="E07.cpp" />
+    <ClCompile Include="E08.cpp" />
+    <ClCompile Include="E09.cpp" />
+    <ClCompile Include="E10.cpp" />
+    <ClCompile Include="E11.cpp" />
+    <ClCompile Include="E12.cpp" />
+    <ClCompile Include="E13.cpp" />
+    <ClCompile Include="E14.cpp" />
+    <ClCompile Include="E15.cpp" />
+    <ClCompile Include="E16.cpp" />
+    <ClCompile Include="E17.cpp" />
+    <ClCompile Include="E18.cpp" />
+    <ClCompile Include="E19.cpp" />
+    <ClCompile Include="E20.cpp" />
+    <ClCompile Include="E21.cpp" />
+    <ClCompile Include="E22.cpp" />
+    <ClCompile Include="E23.cpp" />
+    <ClCompile Include="E24.cpp" />
+    <ClCompile Include="E25.cpp" />
+    <ClCompile Include="E26.cpp" />
+    <ClCompile Include="E27.cpp" />
+    <ClCompile Include="E28.cpp" />
+    <ClCompile Include="E29.cpp" />
+    <ClCompile Include="E30.cpp" />
+    <ClCompile Include="E31.cpp" />
+    <ClCompile Include="E32.cpp" />
+    <ClCompile Include="E33.cpp" />
+    <ClCompile Include="E34.cpp" />
+    <ClCompile Include="E35.cpp" />
+    <ClCompile Include="E36.cpp" />
+    <ClCompile Include="E37.cpp" />
+    <ClCompile Include="E38.cpp" />
+    <ClCompile Include="E38a.cpp" />
+    <ClCompile Include="E61.cpp" />
+    <ClCompile Include="E62.cpp" />
+    <ClCompile Include="E63.cpp" />
+    <ClCompile Include="E64.cpp" />
+    <ClCompile Include="E65.cpp" />
+    <ClCompile Include="E70.cpp" />
+    <ClCompile Include="E71.cpp" />
+    <ClCompile Include="E71a.cpp" />
+    <ClCompile Include="E72.cpp" />
+    <ClCompile Include="E73.cpp" />
+    <ClCompile Include="Functor2.cpp" />
+    <ClCompile Include="Functors.cpp" />
+    <ClCompile Include="E39.cpp" />
+    <ClCompile Include="E39A.cpp" />
+    <ClCompile Include="E39B.cpp" />
+    <ClCompile Include="E40.cpp" />
+    <ClCompile Include="E41.cpp" />
+    <ClCompile Include="E42.cpp" />
+    <ClCompile Include="E43.cpp" />
+    <ClCompile Include="E44.cpp" />
+    <ClCompile Include="E45.cpp" />
+    <ClCompile Include="E45a.cpp" />
+    <ClCompile Include="E45b.cpp" />
+    <ClCompile Include="E46.cpp" />
+    <ClCompile Include="E47.cpp" />
+    <ClCompile Include="E48.cpp" />
+    <ClCompile Include="E49.cpp" />
+    <ClCompile Include="E50.cpp" />
+    <ClCompile Include="E51.cpp" />
+    <ClCompile Include="E52.cpp" />
+    <ClCompile Include="E01.cpp" />
+    <ClCompile Include="E02.cpp" />
+    <ClCompile Include="E03.cpp" />
+    <ClCompile Include="E04.cpp" />
+    <ClCompile Include="E55.cpp" />
+    <ClCompile Include="E56.cpp" />
+    <ClCompile Include="E57.cpp" />
+    <ClCompile Include="E58.cpp" />
+    <ClCompile Include="E59.cpp" />
+    <ClCompile Include="E60.cpp" />
+    <ClCompile Include="Ex1a.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

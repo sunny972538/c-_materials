@@ -1,0 +1,152 @@
+﻿Build started 18-12-2012 10:55:59.
+     1>Project "C:\Ali\Samples\C++\Examples 2\MemoryManagement\MemoryManagement\MemoryManagement.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Ali\Samples\C++\Examples 2\MemoryManagement\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\MemoryManagement.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /FAs /Fa"Debug\\" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt E06.cpp E07.cpp E08.cpp E09.cpp E10.cpp E11.cpp E12.cpp E13.cpp E14.cpp E15.cpp E16.cpp E17.cpp E18.cpp E19.cpp E20.cpp E21.cpp E22.cpp E23.cpp E24.cpp E25.cpp E26.cpp E27.cpp E28.cpp E29.cpp E34.cpp E35.cpp E36.cpp E37.cpp E38.cpp E39.cpp E40.cpp E41.cpp E42.cpp E43.cpp E44.cpp E45.cpp E46.cpp E47.cpp E48.cpp E49.cpp E30.cpp E31.cpp E32.cpp E33.cpp E01.cpp E02.cpp E02A.cpp E03.cpp E04.cpp E05.cpp
+         E05.cpp
+         E04.cpp
+         E03.cpp
+         E02A.cpp
+         E02.cpp
+         E01.cpp
+         E33.cpp
+         E32.cpp
+         E31.cpp
+         E30.cpp
+         E49.cpp
+         E48.cpp
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e48.cpp(122): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e48.cpp(125): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e48.cpp(169): warning C4291: 'void *operator new(size_t,Ex48::Managed)' : no matching operator delete found; memory will not be freed if initialization throws an exception
+                 c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e48.cpp(147) : see declaration of 'operator new'
+         E47.cpp
+         E46.cpp
+         E45.cpp
+         E44.cpp
+         E43.cpp
+         E42.cpp
+         E41.cpp
+         E40.cpp
+         Generating Code...
+         Compiling...
+         E39.cpp
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e39.cpp(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+         E38.cpp
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e38.cpp(16): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e38.cpp(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+         E37.cpp
+         E36.cpp
+         E35.cpp
+         E34.cpp
+         E29.cpp
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e29.cpp(11): warning C4018: '<' : signed/unsigned mismatch
+         E28.cpp
+         E27.cpp
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e27.cpp(19): warning C4018: '<' : signed/unsigned mismatch
+         E26.cpp
+         E25.cpp
+         E24.cpp
+         E23.cpp
+         E22.cpp
+         E21.cpp
+         E20.cpp
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e20.cpp(15): warning C4101: 'stackObject' : unreferenced local variable
+         E19.cpp
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e19.cpp(20): warning C4101: 'stackObject' : unreferenced local variable
+         E18.cpp
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e18.cpp(15): warning C4101: 'stackObject' : unreferenced local variable
+         E17.cpp
+         E16.cpp
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e16.cpp(15): warning C4101: 'stackObject' : unreferenced local variable
+         Generating Code...
+         Compiling...
+         E15.cpp
+         E14.cpp
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e14.cpp(37): warning C4345: behavior change: an object of POD type constructed with an initializer of the form () will be default-initialized
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e14.cpp(42): warning C4345: behavior change: an object of POD type constructed with an initializer of the form () will be default-initialized
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e14.cpp(47): warning C4345: behavior change: an object of POD type constructed with an initializer of the form () will be default-initialized
+         E13.cpp
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e13.cpp(24): warning C4345: behavior change: an object of POD type constructed with an initializer of the form () will be default-initialized
+         E12.cpp
+         E11.cpp
+         E10.cpp
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e10.cpp(15): warning C4345: behavior change: an object of POD type constructed with an initializer of the form () will be default-initialized
+         E09.cpp
+         E08.cpp
+         E07.cpp
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e07.cpp(21): warning C4101: 'stackObject' : unreferenced local variable
+         E06.cpp
+     1>c:\ali\samples\c++\examples 2\memorymanagement\memorymanagement\e06.cpp(21): warning C4101: 'obj4' : unreferenced local variable
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MemoryManagement.exe.embed.manifest.res" Debug\MemoryManagement_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Ali\Samples\C++\Examples 2\MemoryManagement\Debug\MemoryManagement.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MemoryManagement.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Ali\Samples\C++\Examples 2\MemoryManagement\Debug\MemoryManagement.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Ali\Samples\C++\Examples 2\MemoryManagement\Debug\MemoryManagement.lib" /MACHINE:X86 Debug\MemoryManagement.exe.embed.manifest.res
+         Debug\E06.obj
+         Debug\E07.obj
+         Debug\E08.obj
+         Debug\E09.obj
+         Debug\E10.obj
+         Debug\E11.obj
+         Debug\E12.obj
+         Debug\E13.obj
+         Debug\E14.obj
+         Debug\E15.obj
+         Debug\E16.obj
+         Debug\E17.obj
+         Debug\E18.obj
+         Debug\E19.obj
+         Debug\E20.obj
+         Debug\E21.obj
+         Debug\E22.obj
+         Debug\E23.obj
+         Debug\E24.obj
+         Debug\E25.obj
+         Debug\E26.obj
+         Debug\E27.obj
+         Debug\E28.obj
+         Debug\E29.obj
+         Debug\E34.obj
+         Debug\E35.obj
+         Debug\E36.obj
+         Debug\E37.obj
+         Debug\E38.obj
+         Debug\E39.obj
+         Debug\E40.obj
+         Debug\E41.obj
+         Debug\E42.obj
+         Debug\E43.obj
+         Debug\E44.obj
+         Debug\E45.obj
+         Debug\E46.obj
+         Debug\E47.obj
+         Debug\E48.obj
+         Debug\E49.obj
+         Debug\E30.obj
+         Debug\E31.obj
+         Debug\E32.obj
+         Debug\E33.obj
+         Debug\E01.obj
+         Debug\E02.obj
+         Debug\E02A.obj
+         Debug\E03.obj
+         Debug\E04.obj
+         Debug\E05.obj
+     1>E11.obj : error LNK2005: _main already defined in E09.obj
+     1>E14.obj : error LNK2005: _main already defined in E09.obj
+     1>E27.obj : error LNK2005: _main already defined in E09.obj
+     1>E29.obj : error LNK2005: _main already defined in E09.obj
+     1>E03.obj : error LNK2005: "void __cdecl main3(void)" (?main3@@YAXXZ) already defined in E02A.obj
+            Creating library C:\Ali\Samples\C++\Examples 2\MemoryManagement\Debug\MemoryManagement.lib and object C:\Ali\Samples\C++\Examples 2\MemoryManagement\Debug\MemoryManagement.exp
+     1>C:\Ali\Samples\C++\Examples 2\MemoryManagement\Debug\MemoryManagement.exe : fatal error LNK1169: one or more multiply defined symbols found
+     1>Done Building Project "C:\Ali\Samples\C++\Examples 2\MemoryManagement\MemoryManagement\MemoryManagement.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:14.60

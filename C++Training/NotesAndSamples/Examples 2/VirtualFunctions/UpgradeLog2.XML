@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VirtualFunctions">
+</Property><Property Name="Solution File" Value="F:\Asset\My Technology POC\C++\Examples\VirtualFunctions\VirtualFunctions.sln">
+</Property><Property Name="User Options File" Value="F:\Asset\My Technology POC\C++\Examples\VirtualFunctions\VirtualFunctions.suo">
+</Property><Property Name="Date" Value="Thursday, April 01, 2010">
+</Property><Property Name="Time" Value="12:43 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="VirtualFunctions.sln" Description="File successfully backed up as F:\Asset\My Technology POC\C++\Examples\VirtualFunctions\VirtualFunctions.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="VirtualFunctions.suo" Description="File successfully backed up as F:\Asset\My Technology POC\C++\Examples\VirtualFunctions\VirtualFunctions.suo.old">
+</Event><Event ErrorLevel="0" Project="VirtualFunctions" Source="VirtualFunctions\VirtualFunctions.vcproj" Description="Converting project file 'F:\Asset\My Technology POC\C++\Examples\VirtualFunctions\VirtualFunctions\VirtualFunctions.vcproj'.">
+</Event><Event ErrorLevel="1" Project="VirtualFunctions" Source="VirtualFunctions\VirtualFunctions.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="VirtualFunctions" Source="VirtualFunctions\VirtualFunctions.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="VirtualFunctions" Source="VirtualFunctions\VirtualFunctions.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="VirtualFunctions" Source="VirtualFunctions\VirtualFunctions.vcproj" Description="Done converting to new project file 'F:\Asset\My Technology POC\C++\Examples\VirtualFunctions\VirtualFunctions\VirtualFunctions.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="VirtualFunctions" Source="VirtualFunctions\VirtualFunctions.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="VirtualFunctions.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="VirtualFunctions.sln" Description="Converted">
+</Event></UpgradeLog>

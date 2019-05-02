@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Internals">
+      <UniqueIdentifier>{45b0bbf8-9693-4071-a000-c421ea555803}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Issues">
+      <UniqueIdentifier>{6e75c784-d28f-467e-a02e-e58ae40a4711}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Design">
+      <UniqueIdentifier>{f0be61a1-1be5-42d9-be65-5fbb179047ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Casting">
+      <UniqueIdentifier>{667bc6d2-b6e5-4806-b763-afbba80dc293}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Basic">
+      <UniqueIdentifier>{f414c94c-8bbf-4a7b-a6f8-bc966513ae41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\VirtualInheritance">
+      <UniqueIdentifier>{99b2db6c-8ae1-4f2f-8293-21d29bf7d31f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Exceptions">
+      <UniqueIdentifier>{b35b03b2-8e39-416a-9a4a-643797ac5c83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="E20A.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E05.cpp">
+      <Filter>Source Files\Internals</Filter>
+    </ClCompile>
+    <ClCompile Include="E06.cpp">
+      <Filter>Source Files\Internals</Filter>
+    </ClCompile>
+    <ClCompile Include="E07.cpp">
+      <Filter>Source Files\Internals</Filter>
+    </ClCompile>
+    <ClCompile Include="E08.cpp">
+      <Filter>Source Files\Internals</Filter>
+    </ClCompile>
+    <ClCompile Include="E09.cpp">
+      <Filter>Source Files\Internals</Filter>
+    </ClCompile>
+    <ClCompile Include="E10.cpp">
+      <Filter>Source Files\Internals</Filter>
+    </ClCompile>
+    <ClCompile Include="E11.cpp">
+      <Filter>Source Files\Internals</Filter>
+    </ClCompile>
+    <ClCompile Include="E12.cpp">
+      <Filter>Source Files\Internals</Filter>
+    </ClCompile>
+    <ClCompile Include="E13.cpp">
+      <Filter>Source Files\Internals</Filter>
+    </ClCompile>
+    <ClCompile Include="E14.cpp">
+      <Filter>Source Files\Internals</Filter>
+    </ClCompile>
+    <ClCompile Include="E15.cpp">
+      <Filter>Source Files\Internals</Filter>
+    </ClCompile>
+    <ClCompile Include="E16.cpp">
+      <Filter>Source Files\Internals</Filter>
+    </ClCompile>
+    <ClCompile Include="E17.cpp">
+      <Filter>Source Files\Internals</Filter>
+    </ClCompile>
+    <ClCompile Include="E18.cpp">
+      <Filter>Source Files\Internals</Filter>
+    </ClCompile>
+    <ClCompile Include="E19.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E20.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E21.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E22.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E23.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E24.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E25.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E26.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E27.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E28.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E29.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E30.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E31.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E32.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E33.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E34.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E35.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E36.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E37.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E38.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E38a.cpp">
+      <Filter>Source Files\Issues</Filter>
+    </ClCompile>
+    <ClCompile Include="E61.cpp">
+      <Filter>Source Files\Design</Filter>
+    </ClCompile>
+    <ClCompile Include="E62.cpp">
+      <Filter>Source Files\Design</Filter>
+    </ClCompile>
+    <ClCompile Include="E63.cpp">
+      <Filter>Source Files\Design</Filter>
+    </ClCompile>
+    <ClCompile Include="E64.cpp">
+      <Filter>Source Files\Design</Filter>
+    </ClCompile>
+    <ClCompile Include="E65.cpp">
+      <Filter>Source Files\Design</Filter>
+    </ClCompile>
+    <ClCompile Include="E70.cpp">
+      <Filter>Source Files\Design</Filter>
+    </ClCompile>
+    <ClCompile Include="E71.cpp">
+      <Filter>Source Files\Design</Filter>
+    </ClCompile>
+    <ClCompile Include="E71a.cpp">
+      <Filter>Source Files\Design</Filter>
+    </ClCompile>
+    <ClCompile Include="E72.cpp">
+      <Filter>Source Files\Design</Filter>
+    </ClCompile>
+    <ClCompile Include="E73.cpp">
+      <Filter>Source Files\Design</Filter>
+    </ClCompile>
+    <ClCompile Include="Functor2.cpp">
+      <Filter>Source Files\Design</Filter>
+    </ClCompile>
+    <ClCompile Include="Functors.cpp">
+      <Filter>Source Files\Design</Filter>
+    </ClCompile>
+    <ClCompile Include="E39.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E39A.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E39B.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E40.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E41.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E42.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E43.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E44.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E45.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E45a.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E45b.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E46.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E47.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E48.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E49.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E50.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E51.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E52.cpp">
+      <Filter>Source Files\Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="E01.cpp">
+      <Filter>Source Files\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="E02.cpp">
+      <Filter>Source Files\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="E03.cpp">
+      <Filter>Source Files\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="E04.cpp">
+      <Filter>Source Files\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="E55.cpp">
+      <Filter>Source Files\VirtualInheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="E56.cpp">
+      <Filter>Source Files\VirtualInheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="E57.cpp">
+      <Filter>Source Files\VirtualInheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="E58.cpp">
+      <Filter>Source Files\VirtualInheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="E59.cpp">
+      <Filter>Source Files\VirtualInheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="E60.cpp">
+      <Filter>Source Files\VirtualInheritance</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex1a.cpp">
+      <Filter>Source Files\Exceptions</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Constructor">
+      <UniqueIdentifier>{cdbb9b49-269a-4c68-8c19-d31dafb08840}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Destructor">
+      <UniqueIdentifier>{7cf33935-eb76-4bca-becb-d369852b635e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Functions">
+      <UniqueIdentifier>{519f5b06-65c0-456b-a60e-ca2444ee1b02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Files">
+      <UniqueIdentifier>{2161ccc1-25d5-46ec-9040-284814b6f954}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="E08.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E09.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E10.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E11.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E12.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E13.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E14.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E15.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E16.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E17.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E18.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E19.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E20.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E21.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E22.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E23.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E24.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="Exx.cpp">
+      <Filter>Source Files\Constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E25.cpp">
+      <Filter>Source Files\Destructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E26.cpp">
+      <Filter>Source Files\Destructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E27.cpp">
+      <Filter>Source Files\Destructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E28.cpp">
+      <Filter>Source Files\Destructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E29.cpp">
+      <Filter>Source Files\Destructor</Filter>
+    </ClCompile>
+    <ClCompile Include="E01.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="E02.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="E03.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="E04.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="E05.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="E06.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="E07.cpp">
+      <Filter>Source Files\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="File.cpp">
+      <Filter>Source Files\Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
